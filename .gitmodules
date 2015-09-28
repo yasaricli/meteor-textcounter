@@ -1,0 +1,3 @@
+[submodule "textCounter.js"]
+	path = textCounter.js
+	url = https://github.com/commadelimited/textCounter.js.git
